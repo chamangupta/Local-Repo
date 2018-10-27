@@ -1,2 +1,1 @@
-print("HEllo")
-print("cc")
+print("HELL")
